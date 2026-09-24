@@ -1,5 +1,7 @@
 # Karty Improwizacyjne "Pogranicza"
 
+https://sanefungus.github.io/karty-impro/
+
 ## Opis projektu
 
 Aplikacja "Karty Improwizacyjne Pogranicza" to interaktywne narzędzie edukacyjne do ćwiczenia i rozwijania umiejętności improwizacyjnych. Aplikacja prezentuje karty z różnymi technikami, ćwiczeniami i inspiracjami w pięciu kategoriach: Stan, Relacja, Umysł, System i Tradycja. Każda karta zawiera opis techniki oraz konkretne ćwiczenie praktyczne.
